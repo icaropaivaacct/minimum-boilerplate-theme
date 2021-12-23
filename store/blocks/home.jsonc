@@ -4,7 +4,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "Hello World",
+      "text": "Lojinha do Icaro",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "font": "t-heading-1"
